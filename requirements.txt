@@ -1,6 +1,6 @@
 langchain
-langchain-core
-langchain-community
+langchain_community
 langchain-openai
-langchain-text-splitters
+langchain-groq
 python-dotenv
+langchain-google-genai
